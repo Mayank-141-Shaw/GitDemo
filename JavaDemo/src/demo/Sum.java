@@ -7,6 +7,7 @@ public class Sum {
 		float s = 10*10;
 		int j = (int)(10 + s);
 		System.out.println("Total is = "+j);
+		System.out.println("Lets add one more line");
 	}
 
 }
